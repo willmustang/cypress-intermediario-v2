@@ -1,0 +1,8 @@
+{
+    "workbench.colorTheme": "Solarized Dark",
+    "editor.tokenColorCustomizations": {
+        "comments": {
+            "foreground": "#004F63" // Substitua por qualquer cor hexadecimal de sua preferência
+        }
+    }
+}
